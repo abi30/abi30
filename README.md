@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulla al Rakib</h1>
 <h3 align="center">Aspiring Full Stack Software Developer</h3>
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C4D16AQEZnvO3GFpiBQ/profile-displaybackgroundimage-shrink_350_1400/0/1591472274828?e=1623888000&v=beta&t=TZr9sfmeqE9zZaSiO4xnr8mKiBG28pKzYvGCIxos1ko)
+![](https://media-exp1.licdn.com/dms/image/C4D16AQEZnvO3GFpiBQ/profile-displaybackgroundimage-shrink_350_1400/0/1591472274828?e=1623888000&v=beta&t=TZr9sfmeqE9zZaSiO4xnr8mKiBG28pKzYvGCIxos1ko)
 
  **Abdulla Al Rakib is a student of Computer Science at the University of Applied Science Technikum Wien. He is currently residing in Austria Vienna. He is highly motivated, creative, and goal-oriented full stack developer. For last two years, he is working on free and open-source JavaScript, TypeScript, Java, Php, and Mysql software for building dynamic web applications. He is passionate to learn new things, grow and adapt in today's fast-evolving technological space.**
 
