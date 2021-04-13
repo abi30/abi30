@@ -23,7 +23,6 @@
 🔭 I’m currently going through a bootcamp(Full-stack web developer bootcamp at codeFactory Wien).
 ## ⚡ Fun Facts
 
-- ✈️ I like to go gym but now so sad..
 
 
 
