@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-abdullarakib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulla-al-rakib-3b75b834/)](https://www.linkedin.com/in/abdulla-al-rakib-3b75b834/)[![Medium Badge](https://img.shields.io/badge/-@amirulislamalmamun-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@amirulislamalmamun/)](https://medium.com/@amirulislamalmamun) [![Gmail Badge](https://img.shields.io/badge/-rakib0751@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rakib0751@gmail.com)](mailto:amirulislamalmamun@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-abdullarakib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulla-al-rakib-3b75b834/)](https://www.linkedin.com/in/abdulla-al-rakib-3b75b834/) [![Gmail Badge](https://img.shields.io/badge/-rakib0751@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rakib0751@gmail.com)](mailto:amirulislamalmamun@gmail.com)
 
 <!-- ![short bio](me.png) -->
 
