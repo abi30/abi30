@@ -5,10 +5,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Abdulla al Rakib</h1>
-<h3 align="center">Aspiring Full Stack Software Developer</h3>
+<h3 align="center">Software Developer | Associate in Cloud Computing (AWS)</h3>
 
 
- **Abdulla Al Rakib is a student of Computer Science at the University of Applied Science Technikum Wien. He is currently residing in Austria Vienna. He is highly motivated, creative, and goal-oriented full stack developer. For last two years, he is working on free and open-source JavaScript, TypeScript, Java, Php, and Mysql software for building dynamic web applications. He is passionate to learn new things, grow and adapt in today's fast-evolving technological space.**
+ **Abdulla Al Rakib, a former Computer Science student at the University of Applied Science Technikum Wien, chose the path of self-taught development after deciding to leave academia. Currently based in Vienna, Austria, Abdulla is a highly motivated, creative, and goal-oriented full-stack developer actively engaged in software development.With over two years of experience, he has been dedicated to working on free and open-source technologies, specializing in JavaScript, TypeScript, Java, PHP, and MySQL for developing dynamic web applications. Abdulla is passionate about constantly expanding his knowledge, embracing challenges, and adapting to the rapidly evolving technological landscape.
+Additionally, Abdulla is exploring cloud computing, driven by his love for breaking out of comfort zones, learning new things, and experimenting with innovative technologies. He believes in the power of continuous learning and remains committed to personal and professional growth.**
 ![](https://media-exp1.licdn.com/dms/image/C4D16AQEZnvO3GFpiBQ/profile-displaybackgroundimage-shrink_350_1400/0/1591472274828?e=1623888000&v=beta&t=TZr9sfmeqE9zZaSiO4xnr8mKiBG28pKzYvGCIxos1ko)
 
 <h3 align="left">Connect with me:</h3>
