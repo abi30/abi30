@@ -1,77 +1,128 @@
-[![Linkedin Badge](https://img.shields.io/badge/-abdullarakib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulla-al-rakib-3b75b834/)](https://www.linkedin.com/in/abdulla-al-rakib-3b75b834/) [![Gmail Badge](https://img.shields.io/badge/-rakib0751@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rakib0751@gmail.com)](mailto:amirulislamalmamun@gmail.com)
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdulla+al+Rakib;Backend-Focused+Software+Developer;Java+%7C+PHP+%7C+Cloud+Enthusiast" alt="Typing SVG" />
+</h1>
 
-<!-- ![short bio](me.png) -->
-
-
-
-<h1 align="center">Hi 👋, I'm Abdulla al Rakib</h1>
-<h3 align="center">Software Developer | Associate in Cloud Computing (AWS)</h3>
-
-
- **Abdulla Al Rakib, a former Computer Science student at the University of Applied Science Technikum Wien, chose the path of self-taught development after deciding to leave academia. Currently based in Vienna, Austria, Abdulla is a highly motivated, creative, and goal-oriented full-stack developer actively engaged in software development.With over two years of experience, he has been dedicated to working on free and open-source technologies, specializing in JavaScript, TypeScript, Java, PHP, and MySQL for developing dynamic web applications. Abdulla is passionate about constantly expanding his knowledge, embracing challenges, and adapting to the rapidly evolving technological landscape.
-Additionally, Abdulla is exploring cloud computing, driven by his love for breaking out of comfort zones, learning new things, and experimenting with innovative technologies. He believes in the power of continuous learning and remains committed to personal and professional growth.**
-![](https://media-exp1.licdn.com/dms/image/C4D16AQEZnvO3GFpiBQ/profile-displaybackgroundimage-shrink_350_1400/0/1591472274828?e=1623888000&v=beta&t=TZr9sfmeqE9zZaSiO4xnr8mKiBG28pKzYvGCIxos1ko)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abirakib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/abirakib" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abdulla-al-rakib-3b75b834/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/abdulla-al-rakib-3b75b834/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9509589/abdullah-rakib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/9509589/abdullah-rakib" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100001916684428" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100001916684428" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdullaalrakib0751/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rakib0751@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/abdullaalr26/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/9509589/abdullah-rakib">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.csharpprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://www.symfony.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/> </a>
-</p>
+---
 
-<h3 align="left">AWS Cloud Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com/ec2/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com/s3/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="s3" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com/route53/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="route53" width="40" height="40"/> </a> 
-</p>
+## 👨‍💻 About Me
 
+I'm a **backend-focused Software Developer** based in Vienna, Austria, with **4+ years of professional experience** building scalable, cloud-ready applications. I currently work at **ARISECUR Versicherungs-Provider GmbH**, where I design and implement RESTful APIs, integrate OAuth2 security, and contribute across the full stack in an agile Scrum environment.
 
-🔭 I have been working as a backend-focused Full-stack Web Developer since 2021, with a strong enthusiasm for AWS cloud technologies.
+- 🔭 Currently working as a **Software Developer** at ARISECUR (since Dec 2021)
+- ☁️ Expanding into **AWS Cloud** — certified via AWS Associate Cloud Computing Bootcamp (Intellipaat, 2024)
+- 🌱 Deepening expertise in **Java Spring Boot**, **PHP Laravel**, and **Docker**
+- 🧩 Actively practicing **Data Structures & Algorithms** on LeetCode (50+ problems solved)
+- 📍 Based in **Vienna, Austria** | Austrian national
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### Architecture & APIs
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+### Software Developer — ARISECUR Versicherungs-Provider GmbH
+📅 Dec 2021 – Present &nbsp;|&nbsp; 📍 Klosterneuburg, Austria
+
+- Designed and implemented **RESTful APIs** using **PHP/Laravel** and **Java/Spring Boot** with Docker integration
+- Implemented **OAuth2**-based authorization and authentication systems
+- Built web frontend solutions using **React.js**, jQuery, and JavaScript
+- Collaborated in an **agile Scrum** team — daily standups, sprint planning, and retrospectives
+- Worked with relational databases: **MySQL** and **PostgreSQL**
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Period |
+|--------|------------|--------|
+| B.Sc. Computer Science *(ongoing)* | University of Vienna | 2018 – present |
+| B.Sc. Computer Science *(1st semester, 25 ECTS)* | FH Technikum Wien | 2020 – 2021 |
+| B.Sc. Computer Science & Engineering | UITS, Bangladesh | 2008 – 2011 |
+
+---
+
+## 📜 Certifications
+
+- ☁️ **AWS Associate Cloud Computing Bootcamp** — Intellipaat (2024)
+- ☕ **Java Spring Boot 3 Professional Bootcamp** — Udemy (2023)
+- 🐳 **Docker Training** — KodeKloud (2023)
+- 🔧 **DevOps Prerequisites Course** — KodeKloud (2023)
+- 💻 **Full-Stack Software Developer Bootcamp** — Code Factory Wien GmbH (2021)
+
+---
+
+## 🌍 Languages
+
+| Language | Level |
+|----------|-------|
+| Bengali | Native |
+| German | B2 — Independent User |
+| English | B2 — Fluent (spoken & written) |
+
+---
 
 ## ⚡ Fun Facts
 
+- 🧩 I solve **Data Structures & Algorithm** challenges on [LeetCode](https://leetcode.com/abdullaalr26/) regularly (50+ problems solved)
+- ☁️ I love breaking out of my comfort zone — currently diving deep into **AWS cloud architecture**
+- 🛡️ Passionate about writing **secure, well-structured backend systems**
 
+---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullaalrakib&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullaalrakib&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdullaalrakib&label=Profile+Views&color=0EA5E9&style=flat" />
+</p>
