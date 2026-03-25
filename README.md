@@ -119,10 +119,10 @@ I'm a **backend-focused Software Developer** based in Vienna, Austria, with **4+
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullaalrakib&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullaalrakib&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abi30&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abi30&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullaalrakib&label=Profile+Views&color=0EA5E9&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=abi30&label=Profile+Views&color=0EA5E9&style=flat" />
 </p>
